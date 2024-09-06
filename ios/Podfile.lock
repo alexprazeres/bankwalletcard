@@ -1,0 +1,22 @@
+PODS:
+  - bank_wallet_card (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - bank_wallet_card (from `.symlinks/plugins/bank_wallet_card/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  bank_wallet_card:
+    :path: ".symlinks/plugins/bank_wallet_card/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  bank_wallet_card: ac433983a19f3cbf97766c83c9c01a6eec25380f
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: a0d9153d73fc5fa6709720719d0ee422d905d77b
+
+COCOAPODS: 1.15.2
